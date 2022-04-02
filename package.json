@@ -1,0 +1,19 @@
+{
+  "name": "dheeraj-pkg-git",
+  "version": "1.0.0",
+  "description": "Publishing npm pkg using git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheeraj2897/dheeraj-npm-demo-repo.git"
+  },
+  "author": "@dheeraj_gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheeraj2897/dheeraj-npm-demo-repo/issues"
+  },
+  "homepage": "https://github.com/dheeraj2897/dheeraj-npm-demo-repo#readme"
+}
